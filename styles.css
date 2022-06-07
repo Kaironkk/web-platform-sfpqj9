@@ -1,0 +1,8 @@
+body {
+  margin: 0px;
+}
+.main-login{
+  width: 100vw;
+  height: 100vh;
+  background: rgb(25, 21, 34);
+}
